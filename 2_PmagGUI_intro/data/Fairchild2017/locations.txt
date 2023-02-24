@@ -1,0 +1,4 @@
+tab 	locations
+age_high	age_low	age_unit	citations	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w
+1086.5	1083.52	Ma	This study	Extrusive	47.7244	47.7022	Andesite:Basalt	Michipicoten Island	Region	274.044128	274.3519
+1091.61	1084.35	Ma	This study	Extrusive	47.53669	47.524091	Basalt	Two Island River	Outcrop	269.06	269.07756

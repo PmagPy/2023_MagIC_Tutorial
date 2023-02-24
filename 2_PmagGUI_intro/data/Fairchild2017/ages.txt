@@ -1,0 +1,65 @@
+tab 	ages
+age_high	age_low	age_unit	citations	location	method_codes	site
+1086.5	1084.35	Ma	This study	Michipicoten Island	GM-INT	CM1
+1086.5	1084.35	Ma	This study	Michipicoten Island	GM-INT	CM2
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS1
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS10
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS11
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS12
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS13
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS14
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS15
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS16
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS17
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS18
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS19
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS2
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS20
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS21
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS3
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS4
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS5
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS6
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS7
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS8
+1084.35	1083.52	Ma	This study	Michipicoten Island	GM-INT	SS9
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB01
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB02
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB03
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB04
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB05
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB06
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB07
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB08
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB09
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB10
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB11
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB12
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB13
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB14
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB15
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB16
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB17
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB18
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB19
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB20
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB21
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB22
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB23
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB24
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB25
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB26
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB27
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB28
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB29
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB30
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB31
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB32
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB33
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB34
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB35
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB36
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB37
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB38
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB39
+1091.61	1086	Ma	This study	Two Island River	GM-INT	SLB40

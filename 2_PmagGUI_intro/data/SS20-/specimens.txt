@@ -1,0 +1,34 @@
+tab	specimens
+specimen	experiments	sample	dir_alpha95	dir_comp	dir_dec	dir_inc	dir_n_comps	dir_n_measurements	dir_tilt_correction	dir_dang	dir_mad_free	meas_step_max	meas_step_min	meas_step_unit	analysts	instrument_codes	software_packages	int_corr	citations	method_codes	result_quality	volume	weight	location	site
+SS20-1a		SS20-1																	This study	LP-NOMAG				Michipicoten Island	SS20
+SS20-1a	SS20-1a_LP-DIR-T	SS20-1		ht	301.4	27.6	1	10	100	4.2	5.7	853	748	K		hargrave 2016-04-05 19:57:15	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Michipicoten Island	SS20
+SS20-1a	SS20-1a_LP-DIR-T	SS20-1		ht	188.1	8.1	1	10	-1	4.2	5.7	853	748	K		hargrave 2016-04-05 19:57:15	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Michipicoten Island	SS20
+SS20-1a	SS20-1a_LP-DIR-T	SS20-1		ht	307.8	18.0	1	10	0	4.2	5.7	853	748	K		hargrave 2016-04-05 19:57:15	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Michipicoten Island	SS20
+SS20-2a		SS20-2																	This study	LP-NOMAG				Michipicoten Island	SS20
+SS20-2a	SS20-2a_LP-DIR-T	SS20-2		ht	308.9	26.7	1	10	100	2.6	3.7	853	748	K		hargrave 2016-04-05 19:58:52	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Michipicoten Island	SS20
+SS20-2a	SS20-2a_LP-DIR-T	SS20-2		ht	314.2	15.3	1	10	0	2.6	3.7	853	748	K		hargrave 2016-04-05 19:58:52	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Michipicoten Island	SS20
+SS20-2a	SS20-2a_LP-DIR-T	SS20-2		ht	249.0	12.5	1	10	-1	2.6	3.7	853	748	K		hargrave 2016-04-05 19:58:52	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Michipicoten Island	SS20
+SS20-3a	SS20-3a_LP-DIR-T	SS20-3		ht	303.3	25.5	1	10	100	1.9	3.7	853	748	K		hargrave 2016-04-05 20:00:25	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Michipicoten Island	SS20
+SS20-3a	SS20-3a_LP-DIR-T	SS20-3		ht	328.8	34.0	1	10	-1	1.9	3.7	853	748	K		hargrave 2016-04-05 20:00:25	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Michipicoten Island	SS20
+SS20-3a	SS20-3a_LP-DIR-T	SS20-3		ht	308.8	15.5	1	10	0	1.9	3.7	853	748	K		hargrave 2016-04-05 20:00:25	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Michipicoten Island	SS20
+SS20-3a		SS20-3																	This study	LP-NOMAG				Michipicoten Island	SS20
+SS20-4a		SS20-4																	This study	LP-NOMAG				Michipicoten Island	SS20
+SS20-4a	SS20-4a_LP-DIR-T	SS20-4		ht	259.0	17.4	1	10	-1	1.1	2.7	853	748	K		hargrave 2016-04-05 20:01:59	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Michipicoten Island	SS20
+SS20-4a	SS20-4a_LP-DIR-T	SS20-4		ht	313.3	19.3	1	10	0	1.1	2.7	853	748	K		hargrave 2016-04-05 20:01:59	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Michipicoten Island	SS20
+SS20-4a	SS20-4a_LP-DIR-T	SS20-4		ht	306.8	30.3	1	10	100	1.1	2.7	853	748	K		hargrave 2016-04-05 20:01:59	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Michipicoten Island	SS20
+SS20-5a	SS20-5a_LP-DIR-T	SS20-5		ht	307.4	19.5	1	10	0	0.3	1.7	853	748	K		hargrave 2016-04-05 20:03:26	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Michipicoten Island	SS20
+SS20-5a		SS20-5																	This study	LP-NOMAG				Michipicoten Island	SS20
+SS20-5a	SS20-5a_LP-DIR-T	SS20-5		ht	116.0	4.3	1	10	-1	0.3	1.7	853	748	K		hargrave 2016-04-05 20:03:26	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Michipicoten Island	SS20
+SS20-5a	SS20-5a_LP-DIR-T	SS20-5		ht	300.5	29.0	1	10	100	0.3	1.7	853	748	K		hargrave 2016-04-05 20:03:26	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Michipicoten Island	SS20
+SS20-6a		SS20-6																	This study	LP-NOMAG				Michipicoten Island	SS20
+SS20-6a	SS20-6a_LP-DIR-T	SS20-6		ht	112.5	3.4	1	10	-1	0.3	1.3	853	748	K		hargrave 2016-04-05 20:05:42	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Michipicoten Island	SS20
+SS20-6a	SS20-6a_LP-DIR-T	SS20-6		ht	305.8	18.4	1	10	0	0.3	1.3	853	748	K		hargrave 2016-04-05 20:05:42	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Michipicoten Island	SS20
+SS20-6a	SS20-6a_LP-DIR-T	SS20-6		ht	299.3	27.5	1	10	100	0.3	1.3	853	748	K		hargrave 2016-04-05 20:05:42	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Michipicoten Island	SS20
+SS20-7a	SS20-7a_LP-DIR-T	SS20-7		ht	298.6	25.2	1	10	100	0.3	1.4	853	748	K		hargrave 2016-04-05 20:07:10	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Michipicoten Island	SS20
+SS20-7a	SS20-7a_LP-DIR-T	SS20-7		ht	304.5	16.3	1	10	0	0.3	1.4	853	748	K		hargrave 2016-04-05 20:07:10	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Michipicoten Island	SS20
+SS20-7a		SS20-7																	This study	LP-NOMAG				Michipicoten Island	SS20
+SS20-7a	SS20-7a_LP-DIR-T	SS20-7		ht	38.2	29.3	1	10	-1	0.3	1.4	853	748	K		hargrave 2016-04-05 20:07:10	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Michipicoten Island	SS20
+SS20-8a		SS20-8																	This study	LP-NOMAG				Michipicoten Island	SS20
+SS20-8a	SS20-8a_LP-DIR-T	SS20-8		ht	306.2	18.2	1	10	0	0.6	0.9	853	748	K		hargrave 2016-04-05 20:08:43	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Michipicoten Island	SS20
+SS20-8a	SS20-8a_LP-DIR-T	SS20-8		ht	25.0	32.9	1	10	-1	0.6	0.9	853	748	K		hargrave 2016-04-05 20:08:43	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Michipicoten Island	SS20
+SS20-8a	SS20-8a_LP-DIR-T	SS20-8		ht	299.8	27.4	1	10	100	0.6	0.9	853	748	K		hargrave 2016-04-05 20:08:43	pmagpy-4.2.109: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Michipicoten Island	SS20

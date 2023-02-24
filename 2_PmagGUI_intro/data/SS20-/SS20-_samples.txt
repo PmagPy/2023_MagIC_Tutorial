@@ -1,0 +1,10 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+SS20-1	SS20	44.1					  119.3	    0.0	   17.8	  182.0	  -10.0	This study	SO-CMD-NORTH
+SS20-2	SS20	44.1					   63.3	    0.0	   17.8	  182.0	   -8.0	This study	SO-CMD-NORTH
+SS20-3	SS20	44.1					  -24.7	    0.0	   17.8	  182.0	  -21.0	This study	SO-CMD-NORTH
+SS20-4	SS20	44.1					   50.3	    0.0	   17.8	  182.0	  -12.0	This study	SO-CMD-NORTH
+SS20-5	SS20	44.1					  199.3	    0.0	   17.8	  182.0	  -39.0	This study	SO-CMD-NORTH
+SS20-6	SS20	44.1					  202.3	    0.0	   17.8	  182.0	  -46.0	This study	SO-CMD-NORTH
+SS20-7	SS20	44.1					  -89.7	    0.0	   17.8	  182.0	  -16.0	This study	SO-CMD-NORTH
+SS20-8	SS20	44.1					  -75.7	    0.0	   17.8	  182.0	  -16.0	This study	SO-CMD-NORTH
