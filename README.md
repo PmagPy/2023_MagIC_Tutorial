@@ -1,4 +1,4 @@
-# 2023 MagIC Tutorial
+# 2023 MagIC Tutorial 👩‍💻
 
 This repository contains materials associated with the 2023 MagIC workshop tutorial.
 
