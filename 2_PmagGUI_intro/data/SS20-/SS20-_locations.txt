@@ -1,3 +1,0 @@
-tab	locations
-location	lat_n	lat_s	lon_e	lon_w	analysts	citations
-Michipicoten Island	47.7	47.7	-85.8	-85.8		This study
