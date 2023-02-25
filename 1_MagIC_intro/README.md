@@ -32,4 +32,14 @@ This JupyterHub enables you to run PmagPy code without having to install anythin
 
 <img src="images/jupyter_link.png" width="500"/>
 
-Once you are on JupyterHub, run the 
+Once you are on JupyterHub, open the `MagIC Workshop 2023 Tutorial - Setup.ipynb` notebook:
+
+<img src="images/setup_notebook.png" width="500"/>
+
+By executing cells in this setup notebook, you will install the MagIC workshop materials into your JupyterHub. We will now be working in a notebook called `Inspecting_a_MagIC_contribution.ipynb` within the `1_MagIC_intro` folder of the `2023_MagIC_Tutorial` folder.
+
+<img src="images/notebook_navigation.png" width="500"/>
+
+We will use this notebook to inspect a MagIC contribution using `PmagPy` functions.
+
+<img src="images/inspecting_notebook.png" width="500"/>
