@@ -23,3 +23,13 @@
    <img src="images/private_share.png" width="400"/>
 
 # Part 2: Inspecting a contribution using PmagPy
+
+In this part of the tutorial, we are going to download and inspect a MagIC contribution using PmagPy. We will use a Jupyter notebook that is hosted on the EarthRef.org JupyterHub server:
+
+ https://jupyterhub.earthref.org/ 
+
+This JupyterHub enables you to run PmagPy code without having to install anything locally. You can get to it via the MagIC website:
+
+<img src="images/jupyter_link.png" width="500"/>
+
+Once you are on JupyterHub, run the 
