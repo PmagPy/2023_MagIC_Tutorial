@@ -19,7 +19,7 @@ Tauxe, L., R. Shaar, L. Jonestrask, N. L. Swanson-Hysell, R. Minnett, A. A. P. K
 
 Much more about PmagPy can be discovered in the [PmagPy docs](https://pmagpy.github.io).
 
-The tutorial materials in this repository were developed by Nick Swanson-Hysell incorporating some tutorial materials developed by Lisa Tauxe.
+The tutorial materials in this repository were developed by Nick Swanson-Hysell (<a href="https://github.com/swanson-hysell" class="user-mention">@swanson-hysell</a>) and Lisa Tauxe (<a href="https://github.com/ltauxe" class="user-mention">@ltauxe</a>).
 
 ## Contribute and raise issues 🙌
 
