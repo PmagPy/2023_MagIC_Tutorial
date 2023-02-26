@@ -1,5 +1,21 @@
 # Part 1: Anatomy of a MagIC contribution
 
+The Magnetics Information Consortium (MagIC), hosted at http://earthref.org/MagIC is a database that serves as a Findable, Accessible, Interoperable, Reusable (FAIR) archive for paleomagnetic and rock magnetic data. Its data model is fully described here: [https://www2.earthref.org/MagIC/data-models/3.0](https://www2.earthref.org/MagIC/data-models/3.0). Each contribution is associated with a publication via the DOI.  
+
+There are nine data tables. The fields associated with these tables are detailed here: https://www2.earthref.org/MagIC/data-models/3.0
+
+- contribution: metadata of the associated publication.
+- locations: metadata for locations, which are groups of sites (e.g., stratigraphic section, region, etc.)
+- sites: metadata and derived data at the site level (units with a common expectation)
+- samples: metadata and derived data at the sample level.
+- specimens: metadata and derived data at the specimen level.
+- measurements: metadata and measurements at the specimen level.
+- criteria: criteria by which data are deemed acceptable
+- ages: ages and metadata for sites/samples/specimens
+- images: associated images and plots.  
+
+## Let's make upload a contribution! 
+
 1. Log-in to MagIC/Earthref (https://www2.earthref.org/MagIC)
 2. Go to upload tool (https://www2.earthref.org/MagIC/upload)
 3. Download and examine contribution 
