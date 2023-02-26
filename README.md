@@ -6,6 +6,9 @@ This repository contains materials associated with the 2023 MagIC workshop tutor
 
 - [2: Making a MagIC contribution from measurement data with PmagGUI](2_PmagGUI_intro/README.md)
 
+- 3: PmagPy in action
+    - [magnetostratigraphy example](3_PmagPy_in_action/magnetostratigraphy/magnetostratigraphy.ipynb)
+
 ## More info about PmagPy 🐧
 
 The code base for the PmagPy project has been built up over the years by Lisa Tauxe (<a href="https://github.com/ltauxe" class="user-mention">@ltauxe</a>; Professor Emerita at the Scripps Institution of Oceanography). Nick Swanson-Hysell (<a href="https://github.com/swanson-hysell" class="user-mention">@swanson-hysell</a>; Associate Professor at UC Berkeley), Lori Jonestrask (<a href="https://github.com/moonshoes87" class="user-mention">@moonshoes87</a>), and Ron Shaar (<a href="https://github.com/ronshaar" class="user-mention">@ronshaar</a>, Senior Lecturer at the Hebrew University of Jerusalem) have made substantial contributions to the project as have others in the [open community of contributors](https://github.com/pmagpy/pmagpy/graphs/contributors).
