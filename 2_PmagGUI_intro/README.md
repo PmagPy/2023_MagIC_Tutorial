@@ -58,7 +58,7 @@ Following this step, you should see this message indicating that these files hav
 
 <img src="images/MagIC_creation.png" width="300"/>
 
-These are MagIC format files that can be used for analysis in Demag_GUI. If you had more than one site to convert to MagIC format, you would repeat the *1. Convert magnetometer files to MagIC format* step multiple times and use the *step 2* and *step 3* dialog boxes to merge all of the site level data into a single set of MagIC tables. 
+These are MagIC format files that can be used for analysis in Demag_GUI. If you had more than one site to convert to MagIC format in distinct files, you could repeat the *1. Convert magnetometer files to MagIC format* step multiple times and use the *step 2* and *step 3* dialog boxes to merge all of the site level data into a single set of MagIC tables. 
 
 ### Data visualization and analysis of the converted data
 
@@ -102,7 +102,7 @@ Now that the SS20 site data have been converted to MagIC format, we can use the 
 
 <img src="images/Specimens_Table_Dialog.png" width="300"/>
 
-2. We have some additional choices to make within the next dialog box as pertain to the sample. In this case, it makes sense to save the site directions in both geographic and tilt-corrected coordinates. We can also have Demag GUI calculate the virtual geomagnetic pole (VGP) position. By checking the age box, we can add age information as well. In this case, the lava flow that was studied is bracketed by an underlying tuff with an U-Pb date of 1084.35 Ma and a pink-colored rhyolite lava flow at the top of the Michipicoten Island Formation with an U-Pb data of 1083.52 Ma. 
+2. We have some additional choices to make within the next dialog box as pertain to the sample. In this case, it makes sense to save the site directions in both geographic and tilt-corrected coordinates. We can also have Demag GUI calculate the virtual geomagnetic pole (VGP) position. By checking the age box, we can add age information as well. In this case, the lava flow that was studied is within a succession of basalts that is bracketed by an underlying tuff with an U-Pb date of 1084.35 ± 0.20 Ma and an overlying extrusive rhyolite lava flow at the top of the Michipicoten Island Formation with an U-Pb data of 1083.52 ± 0.23 Ma. 
 
 <img src="images/Results_Table_Dialog_w_age.png" width="450"/>
 
