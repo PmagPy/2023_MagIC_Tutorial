@@ -30,7 +30,7 @@ https://github.com/Swanson-Hysell-Group/2023_Demag_GUI_tutorial/archive/master.z
 
 ### Data conversion to MagIC format
 
-In this example, we can going to convert data for one site that is a lava flow within the ca. 1084 Ma Michipicoten Island volcanics. These data were published in https://doi.org/10.1130/L580.1 with data that have been contributed to the MagIC database https://earthref.org/MagIC/11883. For the example we will work through, the data are not yet in MagIC format, but rather in the CIT lab format which includes a .sam site level file and ascii sample text files as described here: http://cires1.colorado.edu/people/jones.craig/PMag_Formats.html. While the specifics of this workflow will vary with different lab formats, this demonstration will show how Pmag_GUI can be used to convert data to MagIC format using the following steps:
+In this example, we are going to convert data for one site that is a lava flow within the ca. 1084 Ma Michipicoten Island volcanics. These data were published in https://doi.org/10.1130/L580.1 with data that have been contributed to the MagIC database https://earthref.org/MagIC/11883. For the example we will work through, the data are not yet in MagIC format, but rather in the CIT lab format which includes a .sam site level file and ascii sample text files as described here: http://cires1.colorado.edu/people/jones.craig/PMag_Formats.html. While the specifics of this workflow will vary with different lab formats, this demonstration will show how Pmag_GUI can be used to convert data to MagIC format using the following steps:
 
 1. Open the Pmag GUI executable program
 
@@ -58,7 +58,7 @@ Following this step, you should see this message indicating that these files hav
 
 <img src="images/MagIC_creation.png" width="300"/>
 
-These are MagIC format files and these MagIC formatted files can be used for analysis in Demag_GUI. If you had more than one site to convert to MagIC format, you would repeat the *1. Convert magnetometer files to MagIC format* step multiple times and use the *step 2* and *step 3* dialog boxes to merge all of the site level data into a single set of MagIC tables. 
+These are MagIC format files that can be used for analysis in Demag_GUI. If you had more than one site to convert to MagIC format, you would repeat the *1. Convert magnetometer files to MagIC format* step multiple times and use the *step 2* and *step 3* dialog boxes to merge all of the site level data into a single set of MagIC tables. 
 
 ### Data visualization and analysis of the converted data
 
@@ -102,13 +102,13 @@ Now that the SS20 site data have been converted to MagIC format, we can use the 
 
 <img src="images/Specimens_Table_Dialog.png" width="300"/>
 
-2. We have some additional choices to make within the next dialog box as pertain to the sample. In this case, it makes sense to save the site directions in both geographic and tilt-corrected coordinates. We can also have Demag GUI calculate the virtual geomagnetic pole (VGP) position. By checking the age box, we can add age information as well. In this case, the lava flow that was studied is bracketed by an underlying tuff with an U-Pb date of 
+2. We have some additional choices to make within the next dialog box as pertain to the sample. In this case, it makes sense to save the site directions in both geographic and tilt-corrected coordinates. We can also have Demag GUI calculate the virtual geomagnetic pole (VGP) position. By checking the age box, we can add age information as well. In this case, the lava flow that was studied is bracketed by an underlying tuff with an U-Pb date of 1084.35 Ma and a pink-colored rhyolite lava flow at the top of the Michipicoten Island Formation with an U-Pb data of 1083.52 Ma. 
 
 <img src="images/Results_Table_Dialog_w_age.png" width="450"/>
 
 2. Once you have saved the MagIC tables out of Demag_GUI, close the Demag_GUI window which will bring you back to the Pmag_GUI window. Here you can click the green button *Create MagIC txt file for upload*.
 
-3. For these data, you will get an error message saying that the validation of the upload file has failed. That is because the CIT file that we converted did not contain all of the required metadata for contribution to MagIC. What should then come up is a validations window that provides help with adding the additional required fields. *In the current version, this window comes up for the OSX program, but not the windows one*
+3. For these data, you will get an error message saying that the validation of the upload file has failed. That is because the CIT file that we converted did not contain all of the required metadata for contribution to MagIC. What should then come up is a validations window that provides help with adding the additional required fields. *In the current version, this window comes up for the OSX program, but not the Windows one*
 
 <img src="images/Validations_window.png" width="400"/>
 
@@ -122,7 +122,7 @@ Now that the SS20 site data have been converted to MagIC format, we can use the 
 
 1. The data from this study has been contributed to the MagIC database. Go here to download it https://earthref.org/MagIC/19680 or you can find it in the Fairchild2017 folder of this repository: https://github.com/Swanson-Hysell-Group/2023_Demag_GUI_tutorial/archive/master.zip
 
-2. Click on Unpack txt file downloaded from MagIC. 
+2. Click on *Unpack txt file downloaded from MagIC*. 
 
 <img src="images/Pmag_GUI_home.png" width="500"/>
 
