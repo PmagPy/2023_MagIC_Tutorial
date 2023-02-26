@@ -21,6 +21,7 @@ This repository contains materials associated with the 2023 MagIC workshop tutor
 | 13:00 - 14:45  | **Interacting with MagIC data using Jupyter notebooks**  | *We will continue to use the MagIC API to download data and conduct data analysis and visualizations within notebooks running on the EarthRef JupyterHub* |
 | 14:45 - 15:00  | Coffee Break  |
 | 15:00 - 16:50  | **MagIC and PmagPy office hours** | This time is designed to be exploration and work time. Talk to folks on the MagIC team and PmagPy developers about MagIC and integrating it into data development and data analysis workflows. We can explore data conversion scripts --- bring your own data! There will also be the option of getting a Thellier_GUI walk through from <a href="https://github.com/bcych" class="user-mention">@bcych</a> |
+| 16:50 - 17:00  | Wrap-up  |
 
 ## More info about PmagPy 🐧
 
