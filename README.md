@@ -8,7 +8,7 @@ This repository contains materials associated with the 2023 MagIC workshop tutor
 
 - 3: PmagPy in action
     - [magnetostratigraphy example](3_PmagPy_in_action/magnetostratigraphy/magnetostratigraphy.ipynb)
-
+    - [inclination shallowing correction + paleomagnetic pole example](3_PmagPy_in_action/magnetostratigraphy/magnetostratigraphy.ipynb)
 
 ## Schedule for the group working sessions and tutorials 🗓️
 
