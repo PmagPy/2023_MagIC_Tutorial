@@ -2,7 +2,7 @@
 
 In the PmagPy in action portion of the tutorial we will first work through two examples.
 
-### IODP magnetostratigraphy
+### IODP magnetostratigraphy 🚢
 
 [IODP Site U1361 example](magnetostratigraphy/magnetostratigraphy.ipynb) The first example is focused on magnetostratigraphic data from this IODP study: 
 
@@ -15,7 +15,7 @@ In this example, we will accomplish the following:
 - visualize magnetostratigraphy with the GPTS
 - analyze and plot anisotropy
 
-### Developing an inclination-flattening corrected paleomagnetic pole
+### Developing an inclination-flattening corrected paleomagnetic pole 
 
 [Nonesuch Formation example](magnetostratigraphy/magnetostratigraphy.ipynb) The second example is focused on paleomagnetic data from fine-grained siliciclastic sedimentary rocks of the Mesoproterozoic (ca. 1075 Ma) Nonesuch Formation associated with the forthcoming paper:
 
