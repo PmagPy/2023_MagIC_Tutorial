@@ -1,0 +1,33 @@
+tab 	sites
+age_high	age_low	age_unit	dir_alpha95	dir_comp_name	dir_dec	dir_inc	dir_k	dir_n_samples	dir_tilt_correction	formation	geologic_classes	geologic_types	lat	lithologies	location	lon	method_codes	samples	site	specimens
+1080	1070	Ma	7.4	PRIM	279.3	14	275	3	100	Nonesuch	Sedimentary	Sediment Layer	46.818	Shale	Big Iron River	-89.570	LP-DIR-T	NS4:NS5:NS6	2	NS4:NS5:NS6
+1080		Ma	4.9	PRIM	279.9	2.8	2558	2	100	Freda	Sedimentary	Sediment Layer	46.817	Sandstone	Big Iron River	-89.570	LP-DIR-T	NS7:NS9	3	NS7:NS9
+1080		Ma	2	PRIM	285.5	4.9	2065	4	100	Freda	Sedimentary	Sediment Layer	46.817	Sandstone	Big Iron River	-89.571	LP-DIR-T	NS10:NS11:NS12:NS13	4	NS10:NS11:NS12:NS13
+1080		Ma	12.6	PRIM	285	5.6	97	3	100	Freda	Sedimentary	Sediment Layer	46.815	Sandstone	Big Iron River	-89.570	LP-DIR-T	NS14:NS15:NS16:NS17	5	NS14:NS15:NS16:NS17
+1080		Ma	13.1	PRIM	282	10	90	3	100	Freda	Sedimentary	Sediment Layer	46.815	Sandstone	Big Iron River	-89.569	LP-DIR-T	NS18:NS19:NS20	6	NS18:NS19:NS20
+1080	1070	Ma		PRIM	266.6	-7.3		1	100	Nonesuch	Sedimentary	Sediment Layer	46.820	Shale	Big Iron River	-89.572	LP-DIR-T	NS21:NS23:NS24:NS25	7	NS21:NS23:NS24:NS25
+1080	1070	Ma	25.7	PRIM	276	11.7	10	5	100	Nonesuch	Sedimentary	Sediment Layer	46.820	Shale	Big Iron River	-89.572	LP-DIR-T	NS26:NS27:NS28:NS29	8	NS26:NS27:NS28:NS29
+1080	1070	Ma	35.3	PRIM	288	-3.6	13	3	100	Nonesuch	Sedimentary	Sediment Layer	46.820	Shale	Big Iron River	-89.572	LP-DIR-T	NS30:NS31:NS32:NS33	9	NS30:NS31:NS32:NS33
+1080	1070	Ma		PRIM	261.9	21.7		1	100	Nonesuch	Sedimentary	Sediment Layer	46.821	Shale	Big Iron River	-89.573	LP-DIR-T	NS35	10	NS35
+1080	1070	Ma	10.6	PRIM	280	-0.6	136	3	100	Nonesuch	Sedimentary	Sediment Layer	46.821	Shale	Big Iron River	-89.573	LP-DIR-T	NS37:NS38	11	NS37:NS38
+1080		Ma	7.5	PRIM	269.1	-3.8	270	3	100	Freda	Sedimentary	Sediment Layer	46.836	Sandstone	Lake Superior Shoreline	-89.535	LP-DIR-T	F1:F2:F4	12	F1:F2:F4
+1080		Ma	5.7	PRIM	263.1	-7.5	261	4	100	Freda	Sedimentary	Sediment Layer	46.837	Sandstone	Lake Superior Shoreline	-89.533	LP-DIR-T	13X:13Y:F16:F17	13	13X:13Y:F16:F17
+1080		Ma	3.9	PRIM	267.2	-0.1	176	9	100	Freda	Sedimentary	Sediment Layer	46.837	Sandstone	Lake Superior Shoreline	-89.533	LP-DIR-T	14V:14X:14Y:F10:F5:F6:F7:F8:F9	14	14V:14X:14Y:F10:F5:F6:F7:F8:F9
+1080		Ma	4.3	PRIM	261.7	-6.8	143	9	100	Freda	Sedimentary	Sediment Layer	46.837	Sandstone	Lake Superior Shoreline	-89.532	LP-DIR-T	15X:15Y:F18:F19:F20:F21:F22:F23:F24	15	15X:15Y:F18:F19:F20:F21:F22:F23:F24
+1080		Ma	2.8	PRIM	281.2	8.8	569	7	100	Freda	Sedimentary	Sediment Layer	46.838	Sandstone	Lake Superior Shoreline	-89.529	LP-DIR-T	16X:16Z:F11:F12:F13:F14:F15	16	16X:16Z:F11:F12:F13:F14:F15
+1080		Ma	5.1	PRIM	286.5	-8.9	319	4	100	Freda	Sedimentary	Sediment Layer	46.838	Sandstone	Lake Superior Shoreline	-89.526	LP-DIR-T	F25:F26:F27:F28	17	F25:F26:F27:F28
+1080		Ma	8.1	PRIM	273.1	-2.3	90	6	100	Freda	Sedimentary	Sediment Layer	46.835	Sandstone	Lake Superior Shoreline	-89.541	LP-DIR-T	18A:18B:18W:18X:18Y:18Z	18	18A:18B:18W:18X:18Y:18Z
+1080		Ma	3.3	PRIM	288.7	-8.4	787	4	100	Freda	Sedimentary	Sediment Layer	46.836	Sandstone	Lake Superior Shoreline	-89.552	LP-DIR-T	19A:19B:19C:19D	19	19A:19B:19C:19D
+1080		Ma	10.3	PRIM	267.2	-2.2	80	4	100	Freda	Sedimentary	Sediment Layer	46.837	Sandstone	Lake Superior Shoreline	-89.531	LP-DIR-T	20A:20B:20C:20D	20	20A:20B:20C:20D
+1080		Ma	2.6	PRIM	264.2	-11.9	1244	4	100	Freda	Sedimentary	Sediment Layer	46.838	Sandstone	Lake Superior Shoreline	-89.530	LP-DIR-T	21A:21B:21C:21D	21	21A:21B:21C:21D
+1080		Ma	6.9	PRIM	254.8	-5.8	1322	2	100	Freda	Sedimentary	Sediment Layer	46.838	Sandstone	Lake Superior Shoreline	-89.527	LP-DIR-T	22A:22B	22	22A:22B
+1080		Ma	5	PRIM	272.1	16.5	2495	2	100	Freda	Sedimentary	Sediment Layer	46.838	Sandstone	Lake Superior Shoreline	-89.528	LP-DIR-T	23A:23B	23	23A:23B
+1080		Ma	6.5	PRIM	266.9	13.1	198	4	100	Freda	Sedimentary	Sediment Layer	46.838	Sandstone	Lake Superior Shoreline	-89.529	LP-DIR-T	24A:24B:24C:24D	24	24A:24B:24C:24D
+1080	1070	Ma		PRIM	265.2	9		1	100	Nonesuch	Sedimentary	Sediment Layer	46.666	Shale	Presque Isle River	-89.939	LP-DIR-T	30B	30	30B
+1080	1070	Ma		PRIM	281.6	-2.2		1	100	Nonesuch	Sedimentary	Sediment Layer	46.666	Shale	Presque Isle River	-89.941	LP-DIR-T	31C	31	31C
+1080	1070	Ma		PRIM	275.6	9.3		4	100	Nonesuch	Sedimentary	Sediment Layer	46.667	Shale	Presque Isle River	-89.940	LP-DIR-T	32A:32B:32C:32D	32	32A:32B:32C:32D
+1080	1070	Ma	5.3	PRIM	289.4	25.6	301	4	100	Nonesuch	Sedimentary	Sediment Layer	46.668	Shale	Presque Isle River	-89.940	LP-DIR-T	33A:33B:33C:33D	33	33A:33B:33C:33D
+1080		Ma	2.3	PRIM	250.9	1.6	877	7	100	Freda	Sedimentary	Sediment Layer	46.672	Sandstone	Presque Isle River	-89.940	LP-DIR-T	34A:34B:34C:34D:34X:34Y:34Z	34	34A:34B:34C:34D:34X:34Y:34Z
+1080		Ma	4.6	PRIM	263.1	5.5	721	3	100	Freda	Sedimentary	Sediment Layer	46.674	Sandstone	Presque Isle River	-89.940	LP-DIR-T	35A:35B:35C	35	35A:35B:35C
+1080	1070	Ma	5.5	PRIM	287.4	19	278	4	100	Nonesuch	Sedimentary	Sediment Layer	46.832	Shale	Silver City	-89.572	LP-DIR-T	2a:2b:2c:2d	40	2a:2b:2c:2d
+1080	1070	Ma	7.9	PRIM	281.5	10.2	136	4	100	Nonesuch	Sedimentary	Sediment Layer	46.830	Shale	Silver City	-89.583	LP-DIR-T	3a:3b:3c:3d	41	3a:3b:3c:3d
